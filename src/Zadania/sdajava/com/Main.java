@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         int[] tab = {1, 2, 4, 6, 7};
-
+        
         int l = 1;
         int p = tab.length;
         int s, x;
